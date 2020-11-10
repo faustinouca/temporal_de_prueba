@@ -1,0 +1,2 @@
+numero = int(input('Numero:'))
+print (numero  'elevado'a %d es %d' %', numero, 2, numero**2)
